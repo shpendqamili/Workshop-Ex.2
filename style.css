@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+.banner{
+    background-image: url(./Images/Img1.jpg);
+    background-size: cover;
+    height: 100vh;
+}
